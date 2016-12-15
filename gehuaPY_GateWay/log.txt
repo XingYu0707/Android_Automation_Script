@@ -1,0 +1,33 @@
+already connected to 192.168.0.200:65432
+14:30
+OK, the "F:\java\Android\adt-bundle-windows-x86_64-20140702\sdk\tools\gehuajietu\CableTest" file exists.
+yi_you_log
+jietu-CableTest1
+jietu-CableTest2
+jietu-CableTest3
+jietu-CableTest4
+jietu-CableTest5
+jietu-CableTest6
+KEYCODE_BACK
+14:37
+OK, the "F:\java\Android\adt-bundle-windows-x86_64-20140702\sdk\tools\gehuajietu\SystemSetting" file exists.
+yi_you_log
+jietu-SystemSetting1
+jietu-SystemSetting2
+jietu-SystemSetting3
+jietu-SystemSetting4
+jietu-SystemSetting5
+jietu-SystemSetting6
+jietu-SystemSetting7
+jietu-SystemSetting8
+jietu-SystemSetting9
+jietu-SystemSetting10
+jietu-SystemSetting11
+jietu-SystemSetting12
+jietu-SystemSetting13
+jietu-SystemSetting14
+jietu-SystemSetting15
+KEYCODE_BACK
+14:53
+Sorry, I cannot find the "F:\java\Android\adt-bundle-windows-x86_64-20140702\sdk\tools\gehuajietu\EPG" file.Now mkdir
+yi_you_log
