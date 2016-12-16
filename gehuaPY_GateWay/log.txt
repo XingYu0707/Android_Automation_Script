@@ -31,3 +31,9 @@ KEYCODE_BACK
 14:53
 Sorry, I cannot find the "F:\java\Android\adt-bundle-windows-x86_64-20140702\sdk\tools\gehuajietu\EPG" file.Now mkdir
 yi_you_log
+jietu-EPG-channel-type1
+jietu-EPG-channel-type2
+jietu-EPG-channel-type3
+jietu-EPG-channel-type4
+jietu-EPG-channel-list0
+jietu-EPG-channel-list1
